@@ -1,0 +1,28 @@
+﻿erlangga
+X11 ips²
+matematika
+   "latihan soal"
+
+1.akan di susun nomor telepon rumah yang terdiri atas 6 angka, dengan ketentuan angka pertama tidak boleh angka 0 tentukan banyaknya nomor telepon yang dapat di buat dari angka-angka 0,1,2,3,4,5,6,7,8,9, jika:
+
+a. angka-angka boleh berulang 
+   -10 10 10  10 10 10 =1.000.000
+b. tidak boleh ada angka berulang 
+   -10  9   8   7    6   5  =590.490
+
+2.dalam suatu kelas akan di adakan pemilihan pengurus kelas yang terdiri dari ketua kelas, sekretaris dan bendahara. apabila calon ketua kelas ada 6 orang, calon sekretaris ada 4 orang, dan calon bendahara ada 3 orang,  ada berapa susunan pengurus kelas yang mungkin terbentuk? 
+jawaban:
+-perhitungan banyak kepengurusan kelas sebagai berikut:
+pemilihan ketua kelas:6 orang 
+pemilihan sekretaris :4 orang 
+pemilihan bendahara :3 orang
+sehingga kepengurusan yang mungkin terbentuk sebayak:6x4x3=72 orang 
+
+3.dua dadu bermata enam yaitu 1,2,3,4,5,6hitung:
+banyaknya pasangan mata dadu yang berjumlah 10.
+-pasangsan mata dadu berjumlah 10 adalah[(4), (6), (5), (5), (6), (4)
+
+jadi banyaknya pasangan, mata dadu berjumlah 10 ada 3 pasangan. 
+b. banyaknya pasangan mata dadu yang jumlahnya paling sedikit 9
+-pasangan, mata dadu berjumlah 9 adalah[(3,6), (4,5), (5,4), (6,3)] 
+jadi banyaknya pasangsan mata dadu yang berjumlah paling sedikit 9 ada 4
